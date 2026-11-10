@@ -1,0 +1,7 @@
+com\hotella21\hotella21web\LoginServlet.class
+com\hotella21\hotella21web\ReservaServlet.class
+com\hotella21\hotella21web\RegistroServlet.class
+com\hotella21\hotella21web\resources\JakartaEE10Resource.class
+com\hotella21\hotella21web\JakartaRestConfiguration.class
+com\hotella21\hotella21web\Conexion.class
+com\hotella21\hotella21web\ConsultaReservasServlet.class
